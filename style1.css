@@ -1,0 +1,22 @@
+body {
+    background-color: #f4f9fd;
+}
+
+.bg-custom-blue {
+    background-color: #87CEEB !important;
+    color: white;
+}
+
+.card-custom {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card-custom:hover {
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+.text-custom-blue {
+    color: #5F9EA0;
+}
